@@ -11,5 +11,6 @@ PRE-REQUISITE: **Python for Data Science, AI and Development** course from IBM i
 
 NOTE: This course is not intended to teach you Python and does not have too much instructional content. It is intended for you to apply prior Python knowledge.
 
+project link on Kaggle : https://www.kaggle.com/code/mohamedkhaled7/extracting-and-visualizing-stock-data
 ## Course Link
 https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science
